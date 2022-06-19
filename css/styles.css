@@ -73,13 +73,13 @@ padding: 20px 0;}
 
 .udp {
   border-radius: 50%;
-  Width: 300px;
-  height: 250px;
+  Width: 200px;
+  height: 200px;
 }
 
 .images-1 {
   border-radius: 50%;
-  Width: 27%;
+  Width: 53.36%;
   height: 200px;
   float: left;
   margin-right: 30px;
@@ -88,7 +88,7 @@ padding: 20px 0;}
 
 .images-2 {
   border-radius: 50%;
-  Width: 25%;
+  Width: 52%;
   height: 200px;
   float: right;
   margin-left: 30px;
